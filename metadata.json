@@ -1,0 +1,6 @@
+{
+  "name": "SIMUL8 — Future Testing Infrastructure",
+  "description": "Enterprise digital twin simulation platform. Test thousands of possible future scenarios before committing real-world capital and construction resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
